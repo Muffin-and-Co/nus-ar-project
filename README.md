@@ -1,6 +1,6 @@
 # nus-ar-project
 
-This template should help get you started developing with Vue 3 in Vite.
+I love IDP, IDP loves me.
 
 ## Recommended IDE Setup
 
